@@ -22,7 +22,7 @@ I am a 1st-year student pursuing Master degree in Computer Application(MCA) stud
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/anurag0134" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="anurag0134" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://https://www.linkedin.com/in/anurag-deshmukh-3a0b1422a/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Anurag Deshmukh" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/anurag-deshmukh-3a0b1422a/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Anurag Deshmukh" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/anurag_0134" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="anurag0134" height="50" width="50" /></a>
 </p>
 
