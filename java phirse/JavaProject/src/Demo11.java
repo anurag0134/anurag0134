@@ -21,7 +21,7 @@ public class Demo11
             {
                 System.out.print(arr[i][j]+" ");
             }
-            System.out.print();
+            System.out.println();
         }
     }
 }

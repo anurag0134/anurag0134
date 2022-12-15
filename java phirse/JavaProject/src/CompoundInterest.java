@@ -19,6 +19,8 @@ public class CompoundInterest
         time=scan.nextDouble();
         System.out.print("enter the number of times that"+"interest is compounded per year::");
         number=scan.nextInt();
+        //calculate total amount
+        totalAmount=principal*Math.pow(1+(rate/number),number*time);
         //claculate compound Interest
         cinterest=totalAmount-principal;
         //display results

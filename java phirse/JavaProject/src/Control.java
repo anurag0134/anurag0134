@@ -6,5 +6,5 @@ public class Control
     // bitwise OR between 12 and 25
     result = number1 | number2;
     System.out.println(result);    // prints 29
-}æ
+}
 }

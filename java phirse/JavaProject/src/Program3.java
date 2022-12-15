@@ -9,7 +9,7 @@ public class Program3
     char cha[]=str.toCharArray();
     for (int i=0;i<=cha.length-1;i++)
     {
-        System.out.println(cha[i]+" ");
+        System.out.print(cha[i]+" ");
     }
 }
 }

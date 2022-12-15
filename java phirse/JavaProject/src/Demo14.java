@@ -19,7 +19,7 @@ public class Demo14
         System.out.println("array contents are");
         for (int i=0;i<=arr.length-1;i++)
         {
-            for (int j=0;j<=arr[i].length-1;j+=)
+            for (int j=0;j<=arr[i].length-1;j++)
             {
                 for (int k=0;k<=arr[i][j].length-1;k++)
                 {

@@ -1,7 +1,8 @@
+import java.util.Scanner;
+
 public class TernaryOperator
 {
-    {
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 
         // take input from users
         Scanner input = new Scanner(System.in);

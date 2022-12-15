@@ -1,3 +1,4 @@
+//Addition of two numbers without using Scanner
 public class AdditionNumbers
 {
     public static void main(String []args) {

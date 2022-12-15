@@ -4,7 +4,14 @@ public class Question
 {
     public static void main(String []args)
     {
-        Scanner scan=new Scanner(System.in);
-        
+        int a=5;
+        {
+            Scanner scan = new Scanner(System.in);
+            System.out.println("enter a number ");
+            int b=scan.nextInt();
+            boolean result;
+            result=a>b;
+            System.out.println(result);
+        }
     }
 }

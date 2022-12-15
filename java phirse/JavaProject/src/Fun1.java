@@ -4,7 +4,7 @@ public class Fun1
     {
 
         // year to be checked
-        int year = 1900;
+        int year = 2016;
         boolean leap = false;
 
         // if the year is divided by 4

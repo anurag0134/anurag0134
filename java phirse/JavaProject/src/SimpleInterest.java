@@ -15,7 +15,7 @@ public class SimpleInterest
         System.out.print("Enter principal amount:");
         principalAmount=scan.nextDouble();
         System.out.print("Enter time (in months):");
-        time= scan.nextDouble();\
+        time= scan.nextDouble();
         System.out.print("Enter the interest rate (per year)::");
         rate=scan.nextDouble();
         //calculate simpleInterest
@@ -25,7 +25,7 @@ public class SimpleInterest
         System.out.println("Total amount to pay=" + (principalAmount + interest));
         //close scan
         scan.close();;
-        
+
 
     }
 }

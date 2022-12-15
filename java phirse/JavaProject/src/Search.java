@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Search
 {
-    public static void mian(String []args)
+    public static void main(String []args)
     {
         Scanner scan=new Scanner(System.in);
         System.out.println("enter Array length");
