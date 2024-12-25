@@ -53,11 +53,8 @@
 <a align= "center" href="https://github.com/anurag0134">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag0134&theme=radical">
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=anurag0134&count_private=true&theme=radical&show_icons=true" />
-<p align="left"> <a href="https://twitter.com/anurag0134" target="blank"><img src="https://img.shields.io/twitter/follow/anurag0134?logo=twitter&style=for-the-badge" alt="anurag0134" /></a> </p>
-- 📫 How to reach me **anurag1342001@gmail.com**
-<br><br>
-<hr>
+
+         <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/anurag0134" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="anurag0134" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
@@ -66,6 +63,12 @@
 </p>
 
 <hr>
+
+
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=anurag0134&count_private=true&theme=radical&show_icons=true" />
+<p align="left"> <a href="https://twitter.com/anurag0134" target="blank"><img src="https://img.shields.io/twitter/follow/anurag0134?logo=twitter&style=for-the-badge" alt="anurag0134" /></a> </p>
+- 📫 How to reach me **anurag1342001@gmail.com**
+<br><br>
 
 </div>
 
